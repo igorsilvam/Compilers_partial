@@ -121,9 +121,9 @@ PT = Projeto criado para prova da matéria de compiladores da faculdade, ele tem
 
     Items to be presented:
 
-- Files with source codes.
-- Repository properly organized on GitHub.
-- Classroom presentation of the example presented.
+    - Files with source codes.
+    - Repository properly organized on GitHub.
+    - Classroom presentation of the example presented.
 
 ## References
 
