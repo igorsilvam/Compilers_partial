@@ -7,14 +7,15 @@
 </h3>
 
 <h4 align="center">
-	Status: 🚧 In Construction
+	Status: 🚀 Finished
 </h4>
 
 <p align="center">
 	<a href="#about">About</a> •
 	<a href="#tech-stack">Tech Stack</a> •
 	<a href="#test">Test</a> • 
-	<a href="#test">References</a> • 
+    <a href="#usage">Usage</a> • 
+	<a href="#references">References</a> • 
 	<a href="#contact">Contact</a> 
 </p>
 
@@ -124,6 +125,14 @@ PT = Projeto criado para prova da matéria de compiladores da faculdade, ele tem
     - Files with source codes.
     - Repository properly organized on GitHub.
     - Classroom presentation of the example presented.
+
+## Usage
+
+Install [Node.js](https://nodejs.org/en/), enter directory js through the terminal and run this code:
+
+```bash
+node index.js
+```
 
 ## References
 
